@@ -28,3 +28,5 @@ Analyzed 1000 rows of sales data using Microsoft Excel.
 ## Conclusion
 Created a Sales Dashboard to understand
 business performance and support decisions.
+## Excel Dashboard
+![Excel Dashboard](Excel-Dashboard.png)
